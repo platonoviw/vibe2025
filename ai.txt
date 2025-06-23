@@ -1,0 +1,3 @@
+Analyze the files that I sent you and add the following features (individually, i.e. 3 versions of the application, the first with adding items to the list, the second with removing items from the list, the third with editing items):
+adding items to the list, removing items from the list, editing elements
+each feature is a separate branch in the git Send the full modified code for each feature (2 files)
